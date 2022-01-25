@@ -1,2 +1,4 @@
-# calc_speeding
-App que vefirica excessos de velocidade a partir do input de dados naturalísticos
+# Verificação de Excesso de Velocidade
+App em shiny que vefirica excessos de velocidade a partir do input de dados naturalísticos
+
+[WIP]
